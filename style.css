@@ -136,7 +136,6 @@ main{
     transform: translate(-50%, -50%);
     width: fit-content;
     height: fit-content;
-
     color: rgb(var(--star-color));
 }
 #btn-start-game{
